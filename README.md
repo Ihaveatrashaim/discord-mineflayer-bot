@@ -1,7 +1,7 @@
 # Discord-Mineflayer-Bot
 A mineflayer bot linked to discord.
 
-Features:
+#Features:
 ```diff
 +Chat using discord
 +Read current chat messages
@@ -11,8 +11,10 @@ Features:
 ```
 
 #Setup
+```diff
 npm init
 npm install discord.js@13
 npm install mineflayer
+```
 
 
