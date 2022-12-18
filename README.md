@@ -1,7 +1,7 @@
 # Discord-Mineflayer-Bot
 A mineflayer bot linked to discord.
 
-#Features:
+# Features:
 ```diff
 +Chat using discord
 +Read current chat messages
@@ -10,7 +10,7 @@ A mineflayer bot linked to discord.
 -Attacking players (Removed because you can get banned by the anticheat)
 ```
 
-#Setup
+# Setup
 ```diff
 npm init
 npm install discord.js@13
