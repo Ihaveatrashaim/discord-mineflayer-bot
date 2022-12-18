@@ -16,5 +16,7 @@ npm init
 npm install discord.js@13
 npm install mineflayer
 ```
+# Test
+![image](https://user-images.githubusercontent.com/82030100/208305848-afb91d50-3d24-4650-90ee-bd037ac7e3af.png)
 
 
