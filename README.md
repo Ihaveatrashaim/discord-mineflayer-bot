@@ -1,4 +1,4 @@
-# discord-mineflayer-bot
+# Discord-Mineflayer-Bot
 A mineflayer bot linked to discord.
 
 Features:
@@ -9,5 +9,10 @@ Features:
 +See the bot view (localhost:3007)
 -Attacking players (Removed because you can get banned by the anticheat)
 ```
+
+#Setup
+npm init
+npm install discord.js@13
+npm install mineflayer
 
 
