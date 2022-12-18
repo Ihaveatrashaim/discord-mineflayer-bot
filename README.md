@@ -17,6 +17,8 @@ npm install discord.js@13
 npm install mineflayer
 ```
 # Test
+Test on blocksmc.com
+
 ![image](https://user-images.githubusercontent.com/82030100/208305848-afb91d50-3d24-4650-90ee-bd037ac7e3af.png)
 
-
+![image](https://user-images.githubusercontent.com/82030100/208305901-b6e8cdc1-352b-4a70-97eb-5178bef5a0ff.png)
