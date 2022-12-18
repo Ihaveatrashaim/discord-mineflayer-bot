@@ -45,7 +45,7 @@ bot.on('message', (jsonMsg) => {
   
 })
 
-
+//Too lazy to do stuff so i just gonna do it like this
 client.on('messageCreate', message => {
   if (message.channel.id !== '0') return
   if (message.author.id === client.user.id) return
